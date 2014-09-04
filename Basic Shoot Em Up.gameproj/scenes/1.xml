@@ -9,6 +9,7 @@
               <real id="x">239</real>
               <real id="y">207.5</real>
             </point>
+            <image id="image" />
           </attributes>
           <aspects>
             <graphics>
@@ -40,6 +41,73 @@
                 <integer id="tileWidth" name="tileWidth">0</integer>
                 <integer id="tileHeight" name="tileHeight">0</integer>
               </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id480999" prototype="id136896">
+          <attributes>
+            <point id="position">
+              <real id="x">785.5</real>
+              <real id="y">176</real>
+            </point>
+            <size id="size">
+              <real id="width">512</real>
+              <real id="height">256</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id403125" prototype="id169317">
+          <attributes>
+            <point id="position">
+              <real id="x">240.5</real>
+              <real id="y">159</real>
+            </point>
+            <size id="size">
+              <real id="width">480</real>
+              <real id="height">320</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id451119" prototype="id986168">
+          <attributes>
+            <point id="position">
+              <real id="x">80</real>
+              <real id="y">153.5</real>
+            </point>
+            <size id="size">
+              <real id="width">75</real>
+              <real id="height">50</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">ship</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
             </graphics>
             <motion />
             <physics>
