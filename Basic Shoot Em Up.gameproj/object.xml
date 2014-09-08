@@ -8,7 +8,6 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
   <longDescription>Shoot anything that moves. You're indestructible! Spaz out!</longDescription>
   <prototypes>
     <actor id="id930615" />
-    <actor id="id926383" />
     <actor id="id472900" />
     <actor id="id768623" />
     <actor id="id794126" />
@@ -16,6 +15,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id981838" />
     <actor id="id751213" />
     <actor id="id151461" />
+    <actor id="id926383" />
     <actor id="id544776" />
     <actor id="id779656" />
     <actor id="id591440" />
@@ -23,7 +23,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id846875" />
     <actor id="id986168" />
     <actor id="id136896" />
-    <actor id="id169317" />
+    <actor id="id812582" />
   </prototypes>
   <plugins>
     <attributes id="kiip">

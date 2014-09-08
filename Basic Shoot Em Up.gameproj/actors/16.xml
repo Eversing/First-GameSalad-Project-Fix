@@ -146,6 +146,22 @@
             <text id="bundleName">Destroy.behavior</text>
           </attributes>
         </behavior>
+        <behavior id="id520581" class="ChangeAttributeAction" enabled="true">
+          <attributes>
+            <text id="name">Change Attribute</text>
+            <text id="bundleName">ChangeAttribute.behavior</text>
+            <text id="targetAttribute">game.attributes.id148203</text>
+            <text id="RHS">false</text>
+          </attributes>
+        </behavior>
+        <behavior id="id506991" class="ChangeSceneAction" enabled="true">
+          <attributes>
+            <text id="name">Change Scene</text>
+            <text id="bundleName">ChangeScene.behavior</text>
+            <text id="sceneKey">id781812</text>
+            <boolean id="enableAdvertisement">false</boolean>
+          </attributes>
+        </behavior>
       </behaviors>
     </behavior>
   </behaviors>

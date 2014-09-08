@@ -3,25 +3,21 @@
   <layers>
     <layer id="id503997">
       <actors>
-        <actor id="id729838" prototype="id169317">
+        <actor id="id987779" prototype="id812582">
           <attributes>
             <point id="position">
-              <real id="x">239.5</real>
-              <real id="y">160</real>
+              <real id="x">238.5</real>
+              <real id="y">159</real>
             </point>
             <size id="size">
               <real id="width">480</real>
               <real id="height">320</real>
             </size>
             <angle id="rotation">0</angle>
-            <text id="name">Background Copy 1</text>
           </attributes>
           <aspects>
             <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
+              <attributes />
             </graphics>
             <motion />
             <physics>
@@ -29,11 +25,11 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id488324" prototype="id986168">
+        <actor id="id721163" prototype="id986168">
           <attributes>
             <point id="position">
-              <real id="x">55.5</real>
-              <real id="y">161</real>
+              <real id="x">61.5</real>
+              <real id="y">166</real>
             </point>
             <size id="size">
               <real id="width">75</real>
@@ -96,7 +92,10 @@
           </attributes>
           <aspects>
             <graphics>
-              <attributes />
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
             </graphics>
             <motion />
             <physics>
