@@ -287,6 +287,19 @@
             </attributes>
           </predicate>
         </condition>
+        <condition id="id604750" eventType="overlaps or collides" pluginPredicateTypeIndex="0" class="Collision">
+          <attributes>
+            <text id="name">default name</text>
+            <index id="conditionType">0</index>
+          </attributes>
+          <predicate type="collision">
+            <attributes>
+              <text id="prototypeKey">id926383</text>
+              <text id="actorTag" />
+              <real id="mode">0</real>
+            </attributes>
+          </predicate>
+        </condition>
       </conditions>
       <behaviors>
         <behavior id="id125794" class="ChangeAttributeAction" enabled="true">

@@ -36,8 +36,8 @@
           <attributes>
             <text id="name">Spawn Actor</text>
             <text id="bundleName">Spawn.behavior</text>
-            <text id="prototypeKey">id167738</text>
-            <angle id="direction">0</angle>
+            <text id="prototypeKey">id926383</text>
+            <angle id="direction">180</angle>
             <index id="directionSpace">0</index>
             <real id="x">600</real>
             <real id="y">
@@ -50,77 +50,6 @@
           </attributes>
         </behavior>
       </behaviors>
-    </behavior>
-    <behavior id="id897454" class="TimerBehavior" enabled="true">
-      <attributes>
-        <text id="name">Timer</text>
-        <text id="bundleName">Timer.behavior</text>
-        <index id="timerType">1</index>
-        <real id="interval">15</real>
-        <boolean id="runToCompletion">false</boolean>
-      </attributes>
-      <behaviors>
-        <behavior id="id246535" class="SpawnAction" enabled="true">
-          <attributes>
-            <text id="name">Spawn Actor</text>
-            <text id="bundleName">Spawn.behavior</text>
-            <text id="prototypeKey">id544776</text>
-            <angle id="direction">0</angle>
-            <index id="directionSpace">0</index>
-            <real id="x">800</real>
-            <real id="y">
-              <expression>
-                <string>200</string>
-              </expression>
-            </real>
-            <index id="positionSpace">1</index>
-            <index id="layerOrder">0</index>
-          </attributes>
-        </behavior>
-      </behaviors>
-    </behavior>
-    <behavior id="id109834" class="RuleBehavior" enabled="true">
-      <attributes>
-        <text id="name">Rule</text>
-        <text id="bundleName">Rule.behavior</text>
-        <real id="compoundConditionKind">0</real>
-      </attributes>
-      <conditions>
-        <condition id="id998753" eventType="mouse button" pluginPredicateTypeIndex="0">
-          <attributes>
-            <index id="conditionType">1</index>
-            <text id="subjectAttribute">game.attributes.id139344</text>
-          </attributes>
-          <predicate type="boolean">
-            <attributes>
-              <index id="RHS">1</index>
-              <text id="operator">=</text>
-            </attributes>
-          </predicate>
-        </condition>
-      </conditions>
-      <behaviors>
-        <behavior id="id794037" class="TimerBehavior" enabled="true">
-          <attributes>
-            <text id="name">Timer</text>
-            <text id="bundleName">Timer.behavior</text>
-            <index id="timerType">1</index>
-            <real id="interval">2</real>
-            <boolean id="runToCompletion">false</boolean>
-          </attributes>
-          <behaviors>
-            <behavior id="id782566" class="ChangeSceneAction" enabled="true">
-              <attributes>
-                <text id="name">Change Scene</text>
-                <text id="bundleName">ChangeScene.behavior</text>
-                <text id="sceneKey">id781812</text>
-                <boolean id="preserveCurrentScene">false</boolean>
-              </attributes>
-            </behavior>
-          </behaviors>
-        </behavior>
-      </behaviors>
-      <elseBehaviors />
     </behavior>
   </behaviors>
   <aspects>

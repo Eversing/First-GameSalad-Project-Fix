@@ -23,23 +23,6 @@
     <boolean id="preloadArt">true</boolean>
   </attributes>
   <behaviors>
-    <behavior id="id738870" class="DisplayTextBehavior" enabled="true">
-      <attributes>
-        <text id="name">Display Text</text>
-        <text id="bundleName">DisplayText.behavior</text>
-        <text id="text">Tap to try again.</text>
-        <text id="font">Zapfino</text>
-        <real id="size">20</real>
-        <index id="alignment">1</index>
-        <boolean id="wrap">false</boolean>
-        <color id="color">
-          <real id="red">1</real>
-          <real id="green">1</real>
-          <real id="blue">1</real>
-          <real id="alpha">1</real>
-        </color>
-      </attributes>
-    </behavior>
     <behavior id="id512856" class="RuleBehavior" enabled="true">
       <attributes>
         <text id="name">Rule</text>
@@ -65,6 +48,23 @@
         </behavior>
       </behaviors>
       <elseBehaviors />
+    </behavior>
+    <behavior id="id281059" class="DisplayTextBehavior" enabled="true">
+      <attributes>
+        <text id="name">Display Text</text>
+        <text id="bundleName">DisplayText.behavior</text>
+        <text id="text">Tap to try again.</text>
+        <text id="font">Zapfino</text>
+        <real id="size">20</real>
+        <index id="alignment">1</index>
+        <boolean id="wrap">false</boolean>
+        <color id="color">
+          <real id="red">1</real>
+          <real id="green">1</real>
+          <real id="blue">1</real>
+          <real id="alpha">1</real>
+        </color>
+      </attributes>
     </behavior>
   </behaviors>
   <aspects>
