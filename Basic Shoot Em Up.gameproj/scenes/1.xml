@@ -106,6 +106,29 @@
             </physics>
           </aspects>
         </actor>
+        <actor id="id434694" prototype="id914361">
+          <attributes>
+            <point id="position">
+              <real id="x">68</real>
+              <real id="y">28</real>
+            </point>
+            <size id="size">
+              <real id="width">137</real>
+              <real id="height">56</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">Ammo Counter</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
       </actors>
       <attributes>
         <text id="name">Background</text>

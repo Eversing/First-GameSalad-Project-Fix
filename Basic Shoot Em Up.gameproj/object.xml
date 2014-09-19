@@ -17,13 +17,15 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id151461" />
     <actor id="id926383" />
     <actor id="id544776" />
-    <actor id="id779656" />
     <actor id="id591440" />
+    <actor id="id779656" />
     <actor id="id289207" />
     <actor id="id846875" />
     <actor id="id986168" />
     <actor id="id136896" />
     <actor id="id812582" />
+    <actor id="id697077" />
+    <actor id="id914361" />
   </prototypes>
   <plugins>
     <attributes id="kiip">
@@ -59,5 +61,6 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <table id="id454764" name="Purchases">Purchases</table>
     <integer id="id461315" name="Player Health">100</integer>
     <integer id="id179469" name="Boss Health">100</integer>
+    <integer id="id894480" name="Ammo">5</integer>
   </attributes>
 </game>

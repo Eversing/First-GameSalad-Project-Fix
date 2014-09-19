@@ -84,6 +84,12 @@
     <image name="sunset">
       <file name="sunset.png" size="66181" />
     </image>
+    <image name="Ammo_Box">
+      <file name="Ammo_Box.png" size="967" />
+    </image>
+    <image name="Ammo Counter">
+      <file name="Ammo Counter.png" size="481" />
+    </image>
   </images>
   <behaviors />
 </assets>
